@@ -1,0 +1,26 @@
+{
+  "name": "nexgen",
+  "version": "1.0.0",
+  "description": "<img alt=\"GalackGen\" src=\"https://i.imgur.com/HKodxPv.png\">",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^3.2.0",
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "firstline": "^2.0.2",
+    "fs": "0.0.1-security",
+    "line-counter": "^1.1.0",
+    "line-counter-node": "^1.5.1",
+    "line-reader": "^0.4.0",
+    "lines-counter": "^2.1.0",
+    "os": "^0.1.1",
+    "text-analyser": "^1.0.61"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
